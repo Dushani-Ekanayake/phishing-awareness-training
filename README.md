@@ -5,5 +5,6 @@ This is a simple, beginner-friendly project to demonstrate how phishing emails w
 
 **⚠️ Do NOT use this project to send real phishing emails or collect real data.**
 
+https://dushani-ekanayake.github.io/phishing-awareness-training/
 
 
