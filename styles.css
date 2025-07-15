@@ -1,0 +1,102 @@
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: #f0f4f8;
+  margin: 0;
+  padding: 40px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+h1 {
+  color: #2c3e50;
+}
+
+nav {
+  background: #2c3e50;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  border-radius: 6px;
+}
+
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.email-container {
+  background: #ffffff;
+  padding: 30px;
+  max-width: 600px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.subject {
+  color: #c0392b;
+}
+
+.red-flag {
+  background: #fdebd0;
+  color: #d35400;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.suspicious-link {
+  color: #2980b9;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.suspicious-link:hover {
+  color: #1c5980;
+}
+
+.urgent-text {
+  font-weight: bold;
+  color: #c0392b;
+}
+
+.training-tips {
+  margin-top: 30px;
+  background: #eaf2f8;
+  padding: 15px;
+  border-radius: 6px;
+}
+
+footer {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 0.9em;
+  color: #555;
+}
+
+.scenario-list {
+  list-style: none;
+  padding: 0;
+}
+
+.scenario-list li {
+  margin: 15px 0;
+}
+
+.scenario-list a {
+  text-decoration: none;
+  color: #2980b9;
+  font-size: 18px;
+}
+
+.scenario-list a:hover {
+  text-decoration: underline;
+}
